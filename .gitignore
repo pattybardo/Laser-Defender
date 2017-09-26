@@ -1,0 +1,6 @@
+*.sln
+*.meta
+Library
+ProjectSettings
+Temp
+*.userprefs
