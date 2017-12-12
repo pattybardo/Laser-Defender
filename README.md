@@ -3,4 +3,4 @@ Fly through the galaxy destroying enemy ships sent to destroy you and your preci
 
 Space to shoot, and arrow keys to move left and right
 
-To Play: Open the "LaserDefenderGameBucket" file and open the link inside. There is a hosted link to the game until December 8th 2017
+To Play: Open the "LaserDefenderGameBucket" file and open the link inside. There is a hosted link to the game until January 12th 2018
